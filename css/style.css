@@ -1,0 +1,16 @@
+.index-body, .lasagna-body, .shrimptacos-body, .sweetpotatopie-body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(140, 160, 255);
+}
+
+.index-h1, .lasagna-h1, .shrimptacos-h1, .sweetpotatopie-h1 {
+  font-style: italic;
+  font-size: 40px;
+  font-weight: 100;
+  color: rgb(50, 50, 255);
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
