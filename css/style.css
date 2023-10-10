@@ -14,3 +14,15 @@ img {
   height: auto;
   width: 500px;
 }
+
+.index-center, .lasagna-center, .sweetpotatopie-center, .shrimptacos-center {
+  text-align: center;
+}
+
+.index-center ul, .lasagna-center ul, .lasagna-center ol,
+.sweetpotatopie-center ul, .sweetpotatopie-center ol,
+.shrimptacos-center ul, .shrimptacos-center ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
