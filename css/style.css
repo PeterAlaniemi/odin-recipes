@@ -13,10 +13,11 @@
 img {
   height: auto;
   width: 500px;
+  border: solid blue 10px;
 }
 
 .index-center, .lasagna-center, .sweetpotatopie-center, .shrimptacos-center {
-  text-align: center;
+  margin-left: 5em
 }
 
 .index-center ul, .lasagna-center ul, .lasagna-center ol,
